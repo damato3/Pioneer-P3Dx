@@ -22,6 +22,7 @@ If you wish to redistribute ARIA under different terms, contact
 Adept MobileRobots for information about a commercial version of ARIA at 
 robots@mobilerobots.com or 
 Adept MobileRobots, 10 Columbia Drive, Amherst, NH 03031; +1-603-881-7960
+This version is modify by Ariel Vernaza (ariel.vernaza at dsalab.com) and their students
 */
 #include "Aria.h"
 #include <string>
